@@ -83,7 +83,11 @@ This project examines the implementation of **Business Intelligence (BI)** tools
 ---
 
 ## 🔗 Links
-- [Detailed Report](Report/Nokia_BI_Report.pdf)
+- [One Way Frequencies](https://github.com/abdulla-zahin/Nokia/blob/main/PDF%20-%20One-Way%20Frequencies%201.pdf)
+- [Distribution Analysis](https://github.com/abdulla-zahin/Nokia/blob/main/PDF%20-%20Distribution%20Analysis.pdf)
+- [SAS Report](https://github.com/abdulla-zahin/Nokia/blob/main/SAS%20Report%20-%20Characterize%20Data.pdf)
+- [SLide Notes](https://github.com/abdulla-zahin/Nokia/blob/main/BI%20notes.docx)
+- [Collected Data](https://github.com/abdulla-zahin/Nokia/blob/main/Attributes%20Data%20(1).xlsx)
 - [Presentation Slides](Presentation/Nokia_BI_Presentation.pdf)
 - [SAS Enterprise Guide Overview](https://www.sas.com/en_us/software/enterprise-guide.html)
 
