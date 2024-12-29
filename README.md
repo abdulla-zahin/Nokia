@@ -88,7 +88,7 @@ This project examines the implementation of **Business Intelligence (BI)** tools
 - [SAS Report](https://github.com/abdulla-zahin/Nokia/blob/main/SAS%20Report%20-%20Characterize%20Data.pdf)
 - [SLide Notes](https://github.com/abdulla-zahin/Nokia/blob/main/BI%20notes.docx)
 - [Collected Data](https://github.com/abdulla-zahin/Nokia/blob/main/Attributes%20Data%20(1).xlsx)
-- [Presentation Slides](Presentation/Nokia_BI_Presentation.pdf)
+- [Presentation Slides](https://github.com/abdulla-zahin/Nokia/blob/main/Nokia%20l%20LD%20Business%20INtelligence.pptx)
 - [SAS Enterprise Guide Overview](https://www.sas.com/en_us/software/enterprise-guide.html)
 
 ---
