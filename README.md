@@ -60,27 +60,7 @@ This project examines the implementation of **Business Intelligence (BI)** tools
 4. **Leverage BI Insights**:
    - Use customer feedback analytics to drive product innovation.
 
----
 
-## 📁 Repository Structure
-```
-/Nokia-BI-Project
-│
-├── README.md
-├── Report
-│   ├── Nokia_BI_Report.pdf
-│   └── Supporting_Analysis.docx
-├── Presentation
-│   ├── Nokia_BI_Presentation.pdf
-│   └── Nokia_BI_Presentation.pptx
-├── Tools
-│   ├── SAS_Reports
-│   ├── VISA_Models
-│   └── Clear_IDEAS_Framework.pdf
-└── LICENSE
-```
-
----
 
 ## 🔗 Links
 - [One Way Frequencies](https://github.com/abdulla-zahin/Nokia/blob/main/PDF%20-%20One-Way%20Frequencies%201.pdf)
